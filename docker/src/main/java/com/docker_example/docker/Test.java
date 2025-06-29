@@ -1,0 +1,7 @@
+package com.docker_example.docker;
+
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("Test");
+    }
+}
